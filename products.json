@@ -1,0 +1,50 @@
+[
+    {
+        "Id": "apple",
+        "Maker": "@apple",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi5.walmartimages.ca%2Fimages%2FEnlarge%2F094%2F514%2F6000200094514.jpg&tbnid=SxAQh5gSkQtTjM&vet=12ahUKEwi3xKfFy6iAAxUvFmIAHS5UBw8QMygAegUIARDuAQ..i&imgrefurl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fapple-gala%2F6000195494284&docid=83ms4DRvVCM-1M&w=1500&h=1500&q=apple&ved=2ahUKEwi3xKfFy6iAAxUvFmIAHS5UBw8QMygAegUIARDuAQ",
+        "Url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+        "Title": "First Fruit",
+        "Description": "An apple is a round, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found.",
+        "Ratings": [
+            5,
+            5
+        ]
+    },
+    {
+        "Id": "banana",
+        "Maker": "banana",
+        "img": "https://www.google.com/search?q=banana+fruit&sxsrf=AB5stBglliPjmPAg8ndaZdZ9qrwAlwQWgQ%3A1690244606913&ei=_hW_ZOeiN8ahptQP8b6vyAw&ved=0ahUKEwjnmYPry6iAAxXGkIkEHXHfC8kQ4dUDCA8&uact=5&oq=banana+fruit&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGJhbmFuYSBmcnVpdDIHEC4YigUYQzIFEAAYgAQyBRAAGIAEMgUQABiABDIGEAAYBxgeMgUQABiABDIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIHEAAYigUYQzIWEC4YigUYQxiXBRjcBBjeBBjfBNgBA0j8HlCSBVjVGHABeACQAQCYAX-gAb4JqgEDNy41uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPCAg4QABjkAhjWBBiwA9gBAcICEBAuGIoFGMgDGLADGEPYAQLCAgcQIxixAhgnwgIKEAAYigUYsQMYQ8ICDRAAGIoFGLEDGIMBGEPCAgoQLhiKBRixAxhDwgIIEAAYigUYkQLiAwQYACBBiAYBkAYTugYGCAEQARgJugYGCAIQARgIugYGCAMQARgU&sclient=gws-wiz-serp#",
+        "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+        "Title": "second fruit",
+        "Description": "A banana is an elongated, edible fruit – botanically a berry[1][2] – produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may ",
+        "Ratings": null
+    },
+    {
+        "Id": "grapes",
+        "Maker": "grapes",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.libertyprim.com%2Ffiles%2Ffamilles%2Fraisin-large.jpg%3F1569271841&tbnid=P5e68Q6x6ZFjRM&vet=12ahUKEwixx8KXzaiAAxUIAWIAHboABJkQMygBegUIARD0AQ..i&imgrefurl=https%3A%2F%2Fwww.libertyprim.com%2Fen%2Flexique-familles%2F108%2Fgrapes-lexique-des-fruits.htm&docid=kYd1LSLbaguteM&w=700&h=700&q=grapes%20fruit&ved=2ahUKEwixx8KXzaiAAxUIAWIAHboABJkQMygBegUIARD0AQ",
+        "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+        "Title": "third fruit",
+        "Description": "round in shape, green colour",
+        "Ratings": null
+    },
+    {
+        "Id": "watermelon",
+        "Maker": "watermelon",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fa-z-animals.com%2Fmedia%2F2022%2F08%2FiStock-1214372574.jpg&tbnid=nOd5Tw9qdGufqM&vet=12ahUKEwj9_IPgzaiAAxXZFmIAHZJDBIcQMygEegUIARCUAg..i&imgrefurl=https%3A%2F%2Fa-z-animals.com%2Fblog%2Fis-watermelon-a-fruit-or-vegetable-heres-why%2F&docid=lSMU4GNiUiuxiM&w=2000&h=1200&q=watermelon%20fruit&ved=2ahUKEwj9_IPgzaiAAxXZFmIAHZJDBIcQMygEegUIARCUAg",
+        "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+        "Title": "fourth fruit",
+        "Description": "big in size, green in color and has stripes",
+        "Ratings": null
+    },
+    {
+        "Id": "kiwi",
+        "Maker": "kiwi",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F45%2F126445-050-4C0FA9F6%2FKiwi-fruit.jpg&tbnid=WSvurcznRZc_9M&vet=12ahUKEwjY-ZeXzqiAAxUkM1kFHenVDYIQMygAegUIARDtAQ..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fplant%2Fkiwi-fruit&docid=Kw5lIXsw_43LkM&w=1600&h=1071&itg=1&q=kiwi%20fruit&ved=2ahUKEwjY-ZeXzqiAAxUkM1kFHenVDYIQMygAegUIARDtAQ",
+        "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
+        "Title": "fifth fruit",
+        "Description": "Kiwi berries are edible fruits the size of a large grape, similar to fuzzy kiwifruit in taste and internal appearance but with a thin, smooth green skin",
+        "Ratings": null
+    }
+]
